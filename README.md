@@ -3,8 +3,7 @@ Generalized batch processing and analytics framework.
 # Installation
 ## Pre-deployed
 
-[Streamlit Cloud]
-(https://malvikasharma01-decison-support-to-airbnb-host-app-exf9k2.streamlitapp.com/)
+[Stream Cloud](https://malvikasharma01-decison-support-to-airbnb-host-app-exf9k2.streamlitapp.com/)
 
 ## Portable
 ### Prerequisites
